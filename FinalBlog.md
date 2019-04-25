@@ -18,11 +18,11 @@ This piece is an extension of my first piece. As I stated previously, this is an
 ![“Homepage”)](DukeMBB.png?raw=true "Homepage")
 
 ### Sketch of Extended Piece
-![“Home”)](MBBHome.png?raw=true "Home")
-![“Viewing”)](MBBViewing.png?raw=true "Viewing")
-![“Followers”)](MBBFollowers.png?raw=true "Followers")
-![“Player”)](MBBPlayer.png?raw=true "Player")
-![Palette)](MBBPalette.png?raw=true "Palette")
+![“Home”)](MBBHome.jpg?raw=true "Home")
+![“Viewing”)](MBBViewing.jpg?raw=true "Viewing")
+![“Followers”)](MBBFollowers.jpg?raw=true "Followers")
+![“Player”)](MBBPlayer.jpg?raw=true "Player")
+![Palette)](MBBPalette.jpg?raw=true "Palette")
 
 ### Technical Details
 
